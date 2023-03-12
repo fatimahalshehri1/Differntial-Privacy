@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+To demonstrate DP, we protect the user from something called Membership Inference Attack(MIA).
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+The idea behing DP is we should not be able to identify the identity of an individual user.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+To prove that, we are going to take a database and create two copies of it such that they differ in only one record. Or exactly one record is absent from the original Database.
